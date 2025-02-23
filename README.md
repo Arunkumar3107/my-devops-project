@@ -26,17 +26,12 @@ Now, I specialize in **CI/CD, Kubernetes, Infrastructure as Code (IaC), and Clou
 ---
 
 ## 🚀 Featured DevOps Projects
-🔹 **[Automated CI/CD Pipeline](https://github.com/yourrepo)** – Jenkins pipeline for containerized apps with Kubernetes deployment.  
-🔹 **[Kubernetes Cluster Setup](https://github.com/yourrepo)** – Helm charts & YAML manifests for microservices deployment.  
-🔹 **[AWS Terraform Infrastructure](https://github.com/yourrepo)** – Infrastructure as Code to provision AWS services.  
-🔹 **[Ansible Automation](https://github.com/yourrepo)** – Playbooks for configuring production-ready servers.  
+ 
 
 ---
 
 ## 🎓 Certifications
-✅ **AWS Certified Solutions Architect – Associate**  
-✅ **Certified Kubernetes Administrator (CKA)**  
-✅ **Terraform Associate (HashiCorp)** 
+✅ **AWS Cloud Practitioner**
 
 🛠 Currently learning **GitOps with ArgoCD & Flux**, and **Site Reliability Engineering (SRE) Best Practices**.
 
